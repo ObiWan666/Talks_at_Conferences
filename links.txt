@@ -1,0 +1,30 @@
+Area41 additional Infos and Links
+
+https://de.wikipedia.org/wiki/Funkrundsteuertechnik
+
+Powerline communication coupler
+http://www.vlf.it/polard/rcf.html
+
+
+Mainflingen DCF77 station
+https://www.ptb.de/cms/en/ptb/fachabteilungen/abt4/fb-44/ag-442/dissemination-of-legal-time/dcf77/localizacion-del-transmisor.html
+https://www.google.de/maps/search/mainflingen+sendeanlage/@50.0162799,9.0079328,1486m/data=!3m1!1e3
+
+
+Rundsteuerfrequenzen in Deutschland
+https://rundsteuerung.de/frequenzen/deutschland.html
+
+
+Tetra for load shedding
+https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Verwaltungsvorschriften/VV_B%C3%BCFu.pdf?__blob=publicationFile&v=4
+
+
+Details über Rundsteuerempfänger
+https://www.energie-experten.org/erneuerbare-energien/oekostrom/stromnetz/rundsteuerempfaenger
+
+
+Software
+
+Osmoncom for Tetra		https://github.com/osmocom/osmo-tetra
+RTL-SDR					https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/
+Tetra Live Monitor		https://github.com/sq5bpf/telive
