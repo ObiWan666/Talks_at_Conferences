@@ -1,0 +1,13 @@
+###############################################################
+#
+# Additional Material to the Stalkerware Talk @ the Bullet 2022
+#
+###############################################################
+
+
+TinyCheck on Github:      https://github.com/KasperskyLab/TinyCheck/
+SpyGuard Fork on Github:  https://github.com/spyguard
+
+
+IOC for TinyCheck         https://github.com/KasperskyLab/TinyCheck/blob/main/assets/iocs.json
+IOC for Spyguard          https://github.com/SpyGuard/SpyGuard/blob/master/assets/iocs.json
