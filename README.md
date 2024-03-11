@@ -2,7 +2,7 @@
 Slides from the Talks at Conferences and additional Material
 
 2024
-Talk          20.2.24:  Swiss Cyber Security Days, Zürich, "Cyber-Risiken der Energiewende"
+Talk          20.2.24:  Swiss Cyber Security Days, Zürich, "Cyber-Risiken der Energiewende" \r\n
 Talk          21.2.24:  Swiss Cyber Security Days, Zürich, "Cyber-Risiken der Energiewende"
 Talk          07.2.24:  CAR IT Cyber Security Symposium, Stuttgard, "Overview of Modern Car Compromise Techniques and Methods of Protection"
 
