@@ -1,13 +1,19 @@
 # Talks_at_Conferences
 Slides from the Talks at Conferences and additional Material
 
-2024
+2024          
+
+Talk          12.06.24  LKA NRW Phishbot: Car Hacking History - from past to future
+
+Talk          11.06.24  LKA NRW PhishBot: OSINT on hacktivsm 
+
+Talk          15.03.24  Nullcon Berlin: EV Charging - free of charge - Video: https://www.youtube.com/watch?v=2KYVUReb7Aw
 
 Talk          20.2.24:  Swiss Cyber Security Days, Zürich, "Cyber-Risiken der Energiewende"
 
 Talk          21.2.24:  Swiss Cyber Security Days, Zürich, "Cyber-Risiken der Energiewende"
 
-Talk          07.2.24:  CAR IT Cyber Security Symposium, Stuttgard, "Overview of Modern Car Compromise Techniques and Methods of Protection"
+Talk          07.2.24:  CAR IT Cyber Security Symposium, Stuttgart, "Overview of Modern Car Compromise Techniques and Methods of Protection"
 
 2023
 
